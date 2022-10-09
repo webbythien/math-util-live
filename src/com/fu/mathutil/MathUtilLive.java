@@ -17,6 +17,11 @@ public class MathUtilLive {
     public static void main(String[] args) {
           long resutl = MathUtil.getFactorial(5);
           System.out.println("5! - 120 ; actual = "+ resutl);
+          
+          
+          System.out.println("5! - 120 ; actual = "+ resutl);
+          System.out.println("5! - 120 ; actual = "+ resutl);
+          System.out.println("5! - 120 ; actual = "+ resutl);
     }
     
 }
